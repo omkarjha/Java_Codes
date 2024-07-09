@@ -1,0 +1,3 @@
+interface OTPGenerator {
+    String generateOTP();
+}

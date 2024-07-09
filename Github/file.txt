@@ -1,0 +1,4 @@
+The bread is brown in colour
+It is kept there for 5 days
+It is from ABC company
+It should be consumed within 1 day.
